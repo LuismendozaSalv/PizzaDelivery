@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaDelivery", "PizzaDelivery\PizzaDelivery.csproj", "{0E1C52A6-B944-4D07-9D7B-F89D330F60F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaDelivery", "PizzaDelivery\PizzaDelivery.csproj", "{0E1C52A6-B944-4D07-9D7B-F89D330F60F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{39F40D69-EB30-4BAB-91BD-59853D9AF4D0}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.md = Readme.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
